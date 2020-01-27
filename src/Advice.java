@@ -1,4 +1,3 @@
-//Timothy Wilks
 // child class
 public class Advice extends Thought
 {
